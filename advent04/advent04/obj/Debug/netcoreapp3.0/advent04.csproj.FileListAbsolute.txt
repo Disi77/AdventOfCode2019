@@ -1,0 +1,11 @@
+C:\Users\cihalpet\source\repos\advent04\advent04\bin\Debug\netcoreapp3.0\advent04.exe
+C:\Users\cihalpet\source\repos\advent04\advent04\bin\Debug\netcoreapp3.0\advent04.deps.json
+C:\Users\cihalpet\source\repos\advent04\advent04\bin\Debug\netcoreapp3.0\advent04.runtimeconfig.json
+C:\Users\cihalpet\source\repos\advent04\advent04\bin\Debug\netcoreapp3.0\advent04.runtimeconfig.dev.json
+C:\Users\cihalpet\source\repos\advent04\advent04\bin\Debug\netcoreapp3.0\advent04.dll
+C:\Users\cihalpet\source\repos\advent04\advent04\bin\Debug\netcoreapp3.0\advent04.pdb
+C:\Users\cihalpet\source\repos\advent04\advent04\obj\Debug\netcoreapp3.0\advent04.csprojAssemblyReference.cache
+C:\Users\cihalpet\source\repos\advent04\advent04\obj\Debug\netcoreapp3.0\advent04.AssemblyInfoInputs.cache
+C:\Users\cihalpet\source\repos\advent04\advent04\obj\Debug\netcoreapp3.0\advent04.AssemblyInfo.cs
+C:\Users\cihalpet\source\repos\advent04\advent04\obj\Debug\netcoreapp3.0\advent04.dll
+C:\Users\cihalpet\source\repos\advent04\advent04\obj\Debug\netcoreapp3.0\advent04.pdb
